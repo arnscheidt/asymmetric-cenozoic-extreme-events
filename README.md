@@ -2,7 +2,7 @@
 
 Model and data analysis code from Arnscheidt and Rothman: "Asymmetry of extreme Cenozoic climate-carbon cycle events" (2021)
 
-Python code is named according to the figures it produces, and the Julia file is the numerical model. 
+Python scripts are named according to the figures they produce, and the Julia file is the numerical model. 
 
 All other files contain data needed by the code files:
 
